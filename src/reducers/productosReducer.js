@@ -11,7 +11,7 @@ import {
     PRODUCTO_EDITADO_ERROR,
     PRODUCTO_EDITADO_EXITO,
     OBTENER_PRODUCTO_EDITAR,
-    COMENZAR_EDICION
+    
 } from '../types';
 
 

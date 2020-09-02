@@ -1,4 +1,4 @@
-import React,{Fragment} from 'react';
+import React from 'react';
 import Header from './components/Header';
 import Productos from './components/Productos';
 import NuevoProducto from './components/NuevoProducto';
